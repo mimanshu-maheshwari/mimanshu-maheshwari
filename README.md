@@ -10,6 +10,7 @@ I'm Mimanshu Maheshwari, just a curious coder. I like to learn and implement all
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/angular/angular.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/azure/azure.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/rust/rust.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/bash/bash.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/codechef/codechef.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/go/go.png"></code>
