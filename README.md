@@ -41,7 +41,7 @@ I'm Mimanshu Maheshwari, just a curious coder. I like to learn and implement all
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/git/git.png"></code>
 <!--
 **mimanshu-maheshwari/mimanshu-maheshwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github.com/github/explore/tree/main/topics/rust
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
