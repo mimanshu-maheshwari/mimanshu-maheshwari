@@ -3,7 +3,7 @@
 I'm Mimanshu Maheshwari, just a curious coder. I like to learn and implement all kinds of things. Although I'm a full stack developer for Java Spring and Angular. I like to work on other things too. Currently I'm learning and enjoying rust. The latest repo is [Ahsah](https://github.com/mimanshu-maheshwari/ahsah) a implementation of SHA 256/512 algorithm. Do check it out.
 
 - 🌱 I’m currently learning rust, Gen AI and ML.
-- 💬 Ask me about anything, I still don't know much but I'd still love to discuss. 
+- 💬 Ask me about anything, I don't know much but I'd still love to discuss. 
 - 😄 Pronouns: He/Him
 
 **stuff doing/want to do/...:**  
