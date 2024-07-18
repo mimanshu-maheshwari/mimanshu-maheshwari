@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mimanshu Maheshwari, just a curious coder. I like to learn and implement all kinds of things. Although I'm a full stack developer for Java Spring and Angular. I like to work on other things a oo. Currently I'm learning and enjoying rust. Currently I'm learning Gen AI and the repo is [temp-x-rs](https://github.com/mimanshu-maheshwari/temp-x-rs/) a document template extractor in rust.
+I'm Mimanshu Maheshwari, just a curious coder. I like to learn and implement all kinds of things. Although I'm a full stack developer for Java Spring and Angular. I like to work on other things too. Currently I'm learning and enjoying rust. Currently I'm learning Gen AI and the repo is [temp-x-rs](https://github.com/mimanshu-maheshwari/temp-x-rs/) a document template extractor in rust.
 
 Most recent repo is [Ahsah](https://github.com/mimanshu-maheshwari/ahsah) a implementation of SHA 256/512 algorithm. Do check it out.
 
