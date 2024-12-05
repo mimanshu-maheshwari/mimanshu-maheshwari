@@ -3,14 +3,14 @@
 I'm Mimanshu Maheshwari, just a curious coder. I like to learn and implement all kinds of things. Although I'm a full stack developer for Java Spring and Angular. I like to work on other things too. Currently I'm learning and enjoying rust. Currently I'm learning Gen AI and the repo is [feoho-nn](https://github.com/mimanshu-maheshwari/feoho-nn/) a neural network framework in rust.
 
 Most recent repos are 
+- [Advent of code 2024](https://github.com/mimanshu-maheshwari/advent-of-code/tree/main/2024/rust/advent-of-code)
 - [Ahsah](https://github.com/mimanshu-maheshwari/ahsah) a implementation of SHA 256/512 algorithm.
- 
 - [1🐝🏎](https://github.com/mimanshu-maheshwari/1brc-mm) my solution to one billion row challenge in rust.
 
 Do check these out.
 
 
-- 🌱 I’m currently learning rust, Gen AI and ML.
+- 🌱 I’m currently learning java(always in learning phase), rust, Gen AI and ML.
 - 💬 Ask me about anything, I don't know much but I'd still love to discuss. 
 - 😄 Pronouns: He/Him
 
