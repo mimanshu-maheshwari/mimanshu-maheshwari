@@ -47,10 +47,19 @@ Do check these out.
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/git/git.png"></code>
+
+
+### Stats:
+<p float="left">
+<img height="220" src="https://github-readme-stats.vercel.app/api?username=mimanshu-maheshwari&show_icons=true&theme=github_dark&rank_icon=github&hide=contribs&show=prs_merged,prs_merged_percentage"/>
+<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimanshu-maheshwari&layout=donut&theme=github_dark&langs_count=5"/>
+</p>
 <!--
 **mimanshu-maheshwari/mimanshu-maheshwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/github/explore/tree/main/topics/rust
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
