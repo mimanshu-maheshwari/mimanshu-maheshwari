@@ -2,6 +2,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mimanshu-maheshwari/)
 [![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshwarimimanshu@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@mimanshumaheshwari)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fmimanshu-maheshwari.github.io%2Fportfolio%2F)](https://mimanshu-maheshwari.github.io/portfolio)
+
 
 ### Hi there 👋
 
