@@ -1,3 +1,8 @@
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mimanshu-maheshwari/)
+[![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshwarimimanshu@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@mimanshumaheshwari)
+
 ### Hi there 👋
 
 I'm Mimanshu Maheshwari, just a curious coder. I like to learn and implement all kinds of things. Although I'm a full stack developer for Java Spring and Angular. I like to work on other things too. Currently I'm learning and enjoying rust. Currently I'm learning Gen AI and the repo is [feoho-nn](https://github.com/mimanshu-maheshwari/feoho-nn/) a neural network framework in rust.
